@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="categories_of_completed">
+        <item>Order sent</item>
+        <item>Book reserved</item>
+        <item>Reader picked up the book</item>
+        <item>Book has been returned</item>
+    </array>
+
+</resources>

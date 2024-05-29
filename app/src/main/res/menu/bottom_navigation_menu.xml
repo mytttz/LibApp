@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/catalog"
+        android:enabled="true"
+        android:icon="@drawable/catalog_icon"
+        android:title="Catalog" />
+
+    <item
+        android:id="@+id/favorite"
+        android:enabled="true"
+        android:icon="@drawable/favorite_remove"
+        android:title="Favorite book" />
+
+    <item
+        android:id="@+id/account"
+        android:enabled="true"
+        android:icon="@drawable/account_icon"
+        android:title="Account" />
+
+</menu>
